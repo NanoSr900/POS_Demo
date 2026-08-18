@@ -1,2 +1,3 @@
 # POS_Demo
-i brief thing i can do 
+Smart software is yet to come
+
